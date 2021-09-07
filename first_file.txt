@@ -1,3 +1,4 @@
 This is the first line of the first file. 
 This is the second line of the first file added remotely. 
 This is the third line of the first file added locally.
+This is the forth line just to test.
