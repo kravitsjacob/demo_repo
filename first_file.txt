@@ -1,2 +1,6 @@
 This is the first line of the first file. 
+<<<<<<< HEAD
 This is the second line of the first file added locally.
+=======
+This is the second line of the first file added remotely. 
+>>>>>>> 84b519cf6f0c20b1d55d26a1a7b60e450fade92f
